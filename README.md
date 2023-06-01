@@ -3,7 +3,10 @@
 <h3> Сара Митковска со бр. на индекс: 173009</h3>
 <hr>
     <h3>Control Flow Graph </h3>
-<img src="https://github.com/smitkovska/SI_2023_lab2_173009/assets/56816739/0a472ce0-b6ac-4c36-ac3c-716ea814a546">
+<img src="https://github.com/smitkovska/SI_2023_lab2_173009/assets/56816739/6a3c493c-35b4-4d95-9fed-6beb0456679f"/>
+<img src="https://github.com/smitkovska/SI_2023_lab2_173009/assets/56816739/4dd0a399-dfd0-4347-bef6-03f2b06b68c6"/>
+
+
 <hr>
 <h3>Цикломатска комплексност</h3>
     <p>Цикломатската комплексност на овој код е 9, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=8, па цикломатската комплексност изнесува 9.</p>   
